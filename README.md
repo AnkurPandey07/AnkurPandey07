@@ -14,7 +14,7 @@
 💬 Ask me about **anything xD**
 
 ⚡️ Fun fact **I'm funny :D**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vollkorn&color=%234944C9&size=34&duration=4000&vCenter=true&lines=Web+Developer;Programmer;Techie;Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vollkorn&color=%234944C9&size=30&duration=4000&vCenter=true&lines=Web+Developer;Programmer;Techie;Learner)](https://git.io/typing-svg)
 
 
 
