@@ -3,7 +3,7 @@
 
 
 <div>
-<img align="right" alt="coding" width="490" height="440" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" />
+<img align="right" alt="coding" width="450" height="400" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" />
 </div>
 
 ## 🚀 About Me
@@ -15,6 +15,8 @@
 
 ⚡️ Fun fact **I'm funny :D**
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vollkorn&color=%234944C9&size=39&duration=4000&vCenter=true&lines=Web+Developer;Coder;Techie;Learner)](https://git.io/typing-svg)
 
 
 
